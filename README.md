@@ -4,6 +4,13 @@ maximize.vim gives you a quick shortcut for maximizing/restoring window for GUI 
 
 # Installation
 
+## vim-plug
+Add this to your .vimrc file.
+
+    Plug 'itmammoth/maximize.vim'
+
+Then, `:PlugInstall`
+
 ## dein.vim
 Add this to your .vimrc file.
 
